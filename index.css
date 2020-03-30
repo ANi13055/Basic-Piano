@@ -11,6 +11,12 @@ body {
 		  justify-content: center; 
 		  align-items: center;
   			}
+
+header{
+	display: flex;
+	margin-bottom: 100vh;
+	color: aliceblue;
+}
   			
 .board {
   			display: flex;
@@ -52,7 +58,7 @@ body {
   		 	background-color: rgba();
   			}
   			
-@media all and (max-width: 720px) {
+@media all and (min-width: 300px) {
   	body {
     background-color: #333;
     margin: 0;  
