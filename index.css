@@ -11,15 +11,10 @@ body {
 		  justify-content: center; 
 		  align-items: center;
 			  }
-header{
-	display: flex;
-	margin-bottom: 100vh;
-	color: aliceblue;
-}
+
 .board {
 	display: flex;
 	background: #61340C;
-	margin-left: -350px;
 	box-shadow: 0 0 30px;
 	padding: 70px 12px 30px 12px;
 	border-radius: 0 0 15px 15px;
